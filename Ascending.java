@@ -1,14 +1,14 @@
 import java.util.*;
 import java.io.*;
 import java.lang.*;
-public class as
+public class Ascending
 {
 public static void main(String args[])
 {
 Scanner sc=new Scanner(System.in);
 ArrayList<Integer> al=new ArrayList<Integer>();
 int n,i;
-System.out.println("ENter the number of elements in the array");
+System.out.println("Enter the number of elements in the array");
 n=sc.nextInt();
 System.out.println("Enter the elements");
 int a[]=new int[n];
